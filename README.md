@@ -16,8 +16,7 @@ Runs the app backend in the development mode, listening on port 8000.
 
 ## Your API key must be stored in a `.env` file and named `API_KEY`
 Add a `.env` file at the root of project. Add `.env` to your `.gitignore` file.
-Then get an API key to access Google's generativeai add your API key to the `.env` file. 
-Your API key must be stored it in a `.env` file and named `API_KEY`. 
+Then get an API key to access Google's generativeai.  
 Within your `.env` file store your API Key as below, with the Xs replaced by your API key:
 
 `API_KEY=XXXXXXXXXXXXX`
